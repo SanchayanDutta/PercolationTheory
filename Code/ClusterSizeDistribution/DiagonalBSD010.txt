@@ -1,0 +1,23 @@
+# Xorshift64* seed is 8206606244798950883
+# Matrix size is 1000 x 1000
+# Probability of a cell to be non-empty is 10.000000%
+# Collecting statistics over 100 iterations
+# Size Count CountPerIteration
+1 	 53478.920
+2 	 12534.330
+3 	 3872.470
+4 	 1336.070
+5 	 485.810
+6 	 181.860
+7 	 72.290
+8 	 28.510
+9 	 11.670
+10 	 4.560
+11 	 1.930
+12 	 0.730
+13 	 0.370
+14 	 0.140
+15 	 0.020
+16 	 0.000
+17 	 0.010
+18 	 0.000
