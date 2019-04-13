@@ -1,13 +1,11 @@
+Courtesy: Nominal Animal <question@nominal-animal.net>.
+   
 #ifndef   CLUSTERS_H
 #define   CLUSTERS_H
 #include <stdlib.h>
 #include <inttypes.h>
 #include <limits.h>
 #include <time.h>
-
-/* This file is in public domain. No guarantees, no warranties.
-   Written by Nominal Animal <question@nominal-animal.net>.
-*/
 
 /* For pure C89 compilers, use '-DSTATIC_INLINE=static' at compile time. */
 #ifndef  STATIC_INLINE
