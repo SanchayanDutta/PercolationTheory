@@ -3,4 +3,4 @@
 
 **Authors:** Sanchayan Dutta, Sugata Sen, Tajkera Khatun, Tapati Dutta & Sujata Tarafdar (Jadavpur University)
 
-**Courtesy:** Jouko Olavi Orava (University of Helsinki)
+**Courtesy:** Jouko Olavi Orava (University of Helsinki) <https://stackoverflow.com/users/1475978/nominal-animal>
