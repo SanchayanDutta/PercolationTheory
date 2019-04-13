@@ -3,4 +3,4 @@
 
 **Authors:** Sanchayan Dutta, Sugata Sen, Tajkera Khatun, Tapati Dutta & Sujata Tarafdar (Jadavpur University)
 
-**Courtesy:** Jouko Orava (University of Helsinki) \<http://www.nominal-animal.net/\>
+**Courtesy:** Jouko Orava (University of Helsinki) <http://www.nominal-animal.net/>
