@@ -8,9 +8,6 @@
 #include <string.h>
 #include "prng.h"
 
-/* Written by Nominal Animal <question@nominal-animal.net>.
-   This is in public domain. No guarantees, no warranties. */
-
 #ifndef  static_inline
 #define  static_inline  static inline
 #endif
