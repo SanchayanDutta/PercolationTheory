@@ -1,10 +1,10 @@
+/* Courtesy: Nominal Animal <question@nominal-animal.net>
+*/
+
 #ifndef   PRNG_H
 #define   PRNG_H
 /*
- * Xorshift64* pseudo-random number generator.
- *
- * Written by Nominal Animal <question@nominal-animal.net>.
- * This file is in public domain. No guarantees, no warranties.
+Xorshift64* pseudo-random number generator.
 */
 #include <inttypes.h>
 #include <time.h>
