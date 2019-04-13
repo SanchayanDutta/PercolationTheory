@@ -1,4 +1,5 @@
-Courtesy: Nominal Animal <question@nominal-animal.net>
+/* Courtesy: Nominal Animal <question@nominal-animal.net>
+*/
 
 #include <stdlib.h>
 #include <inttypes.h>
