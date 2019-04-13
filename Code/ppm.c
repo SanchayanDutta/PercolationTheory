@@ -1,3 +1,6 @@
+/* Courtesy: Nominal Animal <question@nominal-animal.net>
+*/
+
 #include <stdlib.h>
 #include <inttypes.h>
 #include <string.h>
