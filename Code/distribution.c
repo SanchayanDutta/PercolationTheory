@@ -1,12 +1,10 @@
+Courtesy: Nominal Animal <question@nominal-animal.net>
+
 #include <stdlib.h>
 #include <inttypes.h>
 #include <string.h>
 #include <stdio.h>
 #include "clusters.h"
-
-/* This file is in public domain. No guarantees, no warranties.
-   Written by Nominal Animal <question@nominal-animal.net>.
-*/
 
 #define  DEFAULT_ROWS          100
 #define  DEFAULT_COLS          100
