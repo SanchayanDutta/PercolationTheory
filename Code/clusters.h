@@ -1,5 +1,5 @@
-Courtesy: Nominal Animal <question@nominal-animal.net>.
-   
+Courtesy: Nominal Animal <question@nominal-animal.net>
+
 #ifndef   CLUSTERS_H
 #define   CLUSTERS_H
 #include <stdlib.h>
